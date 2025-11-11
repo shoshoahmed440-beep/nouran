@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fascinating-cassata-e8c88a.netlify.app/sitemap.xml
